@@ -1,2 +1,2 @@
 # Python Calculator
- A calculator made with python
+A basic calculator with a GUI, used TKinter for the GUI.
